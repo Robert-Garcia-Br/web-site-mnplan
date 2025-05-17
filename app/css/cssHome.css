@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2
+{
+	font:Tahoma, Arial; 
+	font-size:24px; 
+	color:#3b3b3b; 
+	font-weight:normal; 
+}
+
+#conteudo
+{
+	padding:0px 0px 0px 15px;
+	
+}
+
+#tableQuadro01 
+{
+	margin:0px 0px 0px 30px;
+}
+
+#tdQuadroTextoHome
+{
+	background:url(../img/imgFundoQuadroTexto_02_Home_menor.jpg) repeat-x; 
+	width:580px; /* 559px; */
+	padding:0px 0px 0px 0px;
+}
+
+#tdQuadroTextoHomeImagem
+{
+	background:url(../img/imgNoteQuadroTexto_01_Home_menor.jpg) no-repeat; 
+	width:312px; /*445px; */
+}
+
+#divSubTituloHome
+{
+	margin:5px 0px 10px 0px;
+}

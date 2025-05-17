@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+	    <loc>http://www.nmplan.net/	</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>1</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/index.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>1</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/produtos.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.9</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/prod_recuperacao_inss.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.8</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/prod_creditos_estaduais_e_federais.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.8</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/prod_reducao_custos_despesas.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.8</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/prod_revisao_impostos_diretos.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.8</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/prod_sistemas_fiscais_sped_nfe.html</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.8</priority>
+	</url>
+	
+	<url>
+	    <loc>http://www.nmplan.net/contato.aspx</loc>
+	    <lastmod>2009-04-18</lastmod>
+	    <changefreq>monthly</changefreq>
+	    <priority>0.7</priority>
+	</url>
+  </urlset>
